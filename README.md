@@ -1,6 +1,6 @@
 Project overview :-
 
-LinkedIn
+LinkedIn Clone
 
 Developed a Job Portal Website using HTML & CSS.
 
